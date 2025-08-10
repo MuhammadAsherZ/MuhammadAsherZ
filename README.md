@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Asher Zafar
 
-<!--
-**MuhammadAsherZ/MuhammadAsherZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Power BI Developer** from Lahore, Pakistan with over **3 years of experience** in transforming raw data into meaningful, actionable insights.  
 
-Here are some ideas to get you started:
+Over the years, I have built **finance dashboards**, **sales analysis reports**, and **internal progress tracking tools** that have helped organizations make informed business decisions. My work blends technical expertise in **DAX**, **Power Query**, and **data modeling** with a strong sense for clean, impactful design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **My professional interests** lie in data visualization, business intelligence, and data-driven decision-making. I am constantly exploring new ways to turn numbers into stories that empower teams.  
+
+📊 **Key Skills:**
+- Power BI, DAX, Power Query  
+- Data modeling & ETL processes  
+- SQL databases (SQL Server, MySQL)  
+- Excel for analytics & reporting  
+
+🌱 **Currently exploring:** advanced DAX patterns, KPI storytelling, and dashboard performance optimization.  
+
+🎯 **Outside of work**, I enjoy exploring technology trends, watching analytical documentaries, and learning creative presentation techniques to make data even more engaging.
